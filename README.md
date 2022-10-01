@@ -8,9 +8,9 @@ O projeto tem como objetivo principal objetivo construir uma API que realizesse 
 - Postgreesql
 
 ## **Objetivos**
-- Constrir a minha própria API 
-- Criar endpoint: 
-       - Métodos: Get, Put, Post e Delete;
+- Constrir a própria API; 
+- Criar endpoint; 
+- Métodos: Get, Put, Post e Delete;
 
 
 Desenvolvido por Luis Carlos. @crluis521@gmail.com
